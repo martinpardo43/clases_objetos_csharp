@@ -1,0 +1,14 @@
+D:\martin_cshart\clase5_martin\bin\Debug\net8.0\clase5_martin.exe
+D:\martin_cshart\clase5_martin\bin\Debug\net8.0\clase5_martin.deps.json
+D:\martin_cshart\clase5_martin\bin\Debug\net8.0\clase5_martin.runtimeconfig.json
+D:\martin_cshart\clase5_martin\bin\Debug\net8.0\clase5_martin.dll
+D:\martin_cshart\clase5_martin\bin\Debug\net8.0\clase5_martin.pdb
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.GeneratedMSBuildEditorConfig.editorconfig
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.AssemblyInfoInputs.cache
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.AssemblyInfo.cs
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.csproj.CoreCompileInputs.cache
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.dll
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\refint\clase5_martin.dll
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.pdb
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\clase5_martin.genruntimeconfig.cache
+D:\martin_cshart\clase5_martin\obj\Debug\net8.0\ref\clase5_martin.dll
